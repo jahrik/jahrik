@@ -27,7 +27,7 @@
 
 ### Stats
 
-[![Jahrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahrik)](https://github.com/anuraghazra/github-readme-stats)
+[![Jahrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahrik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://homelab.business
