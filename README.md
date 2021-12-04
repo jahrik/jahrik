@@ -2,10 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=homelab.business&style=for-the-badge&url=https%3A%2F%2Fhomelab.business)](https://homelab.business)
 
-### I'm a Father, DevOps Engineer, and Mentor
+### I'm a Father, Mentor, and DevOps Engineer
 
+- I'm a fan of Linux and love using it as my main OS
+- I love tinkering with Single Board Computers and ARM.
 - I’m currently learning more about Ansible, Python, Docker, and CICD workflows.
-- I’m looking to collaborate with other engineers.
+- I'm fascinated by clustering technologies, including Docker Swarm, Kubernetes, Glusterfs, and Hadoop/HDFS
 - 2022 Goals: Start contributing to Open Source projects
 - I also enjoy studying mycology and cataloging local fungi in [iNaturalist](https://www.inaturalist.org/people/jahrik)
 
