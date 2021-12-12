@@ -4,7 +4,7 @@
 - I'm a fan of Linux and love using it as my main OS
 - I love tinkering with Single Board Computers and ARM.
 - I’m currently learning more about Ansible, Python, Docker, and CICD workflows.
-- I'm fascinated by clustering technologies, including Docker Swarm, Kubernetes, Jenkins, Glusterfs, and Hadoop
+- I'm fascinated by clustering technologies like Docker Swarm, Kubernetes, Jenkins, Glusterfs, and Hadoop
 - 2022 Goals: Start contributing to Open Source projects
 - I also enjoy studying mycology and cataloging local fungi in [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any)
 
