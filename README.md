@@ -1,7 +1,4 @@
 ## Hey there! I'm Jahrik
-
-[![Website](https://img.shields.io/website?label=homelab.business&style=for-the-badge&url=https%3A%2F%2Fhomelab.business)](https://homelab.business)
-
 ### I'm a Father, Mentor, and DevOps Engineer
 
 - I'm a fan of Linux and love using it as my main OS
@@ -12,7 +9,8 @@
 - I also enjoy studying mycology and cataloging local fungi in [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any)
 
 
-### Connect with me:
+### Check out my stuff:
+[![Website](https://img.shields.io/website?label=homelab.business&style=for-the-badge&url=https%3A%2F%2Fhomelab.business)](https://homelab.business)
 
 [<img align="left" alt="homelab.business" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
