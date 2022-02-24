@@ -15,8 +15,6 @@
 
 [![Website](https://img.shields.io/website?label=homelab.business&style=for-the-badge&url=https%3A%2F%2Fhomelab.business)](https://homelab.business)
 
-<br />
-
 ### Social:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
