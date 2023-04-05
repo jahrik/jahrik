@@ -5,9 +5,11 @@
 - I love tinkering with Single Board Computers and ARM.
 - I’m currently learning more about Ansible, Python, Docker, and CICD workflows.
 - I'm fascinated by clustering technologies like Docker Swarm, Kubernetes, Jenkins, Glusterfs, and Hadoop
-- 2022 Goals:
-    - Start contributing to Open Source projects
-    - Store all my dotfiles in Ansible roles
+- 2023 Goals:
+    - Redo my nvim configs in Lua
+    - Continue putting all my dotfiles in Ansible roles and add support for Mac
+    - Learn a new programming language. probably Lua to start with
+    - Reserect Edward the chatterbot and train it with ChatGPT
 - I also enjoy studying mycology and cataloging local fungi in [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any)
 
 
