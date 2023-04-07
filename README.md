@@ -39,10 +39,5 @@
 
 <br />
 
-### Stats
-
-[![Jahrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahrik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [website]: https://homelab.business
 [linkedin]: https://www.linkedin.com/in/wes-gill-b6509043
