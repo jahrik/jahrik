@@ -20,24 +20,28 @@
 
 ### Social:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 <br />
 
 ### Languages and tools I use:
 
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Unix" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Ansible" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/384px-Ansible_logo.svg.png" />
-<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-<img align="left" alt="Neovim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.simpleicons.org/linux" />
+<img align="left" alt="Arch Linux" width="26px" src="https://cdn.simpleicons.org/archlinux" />
+<img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github" />
+<img align="left" alt="GitLab" width="26px" src="https://cdn.simpleicons.org/gitlab" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.simpleicons.org/docker" />
+<img align="left" alt="Ansible" width="26px" src="https://cdn.simpleicons.org/ansible" />
+<img align="left" alt="Bash" width="26px" src="https://cdn.simpleicons.org/gnubash" />
+<img align="left" alt="Python" width="26px" src="https://cdn.simpleicons.org/python" />
+<img align="left" alt="Go" width="26px" src="https://cdn.simpleicons.org/go" />
+<img align="left" alt="Lua" width="26px" src="https://cdn.simpleicons.org/lua" />
+<img align="left" alt="Neovim" width="26px" src="https://cdn.simpleicons.org/neovim" />
+<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.simpleicons.org/raspberrypi" />
+<img align="left" alt="Prometheus" width="26px" src="https://cdn.simpleicons.org/prometheus" />
+<img align="left" alt="Grafana" width="26px" src="https://cdn.simpleicons.org/grafana" />
+<img align="left" alt="Steam" width="26px" src="https://cdn.simpleicons.org/steam" />
 
 <br />
 
