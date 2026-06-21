@@ -5,7 +5,7 @@
 - I love tinkering with Single Board Computers and ARM
 - I spend a lot of time traveling and camping in the forest
 - I'm into mycology and taxonomy
-  - caloging local fungi on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any)
+  - cataloging local fungi on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any)
 - I'm currently learning more about Python, Data Science, Game Development, and AI
 - 2026 Goals:
     - Learn Korean
