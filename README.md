@@ -16,6 +16,11 @@
 ### Featured Projects:
 
 - [ansible-arch-workstation](https://github.com/jahrik/ansible-arch-workstation) — Full Arch Linux desktop setup via Ansible (Hyprland, Sway, i3, Neovim, and more)
+- [ansible-steamdeck](https://github.com/jahrik/ansible-steamdeck) - Development Environemnt on a Steam Deck via Ansible
+  - No sudo, keeps read-only enabled on the Steam Deck
+  - Sets default kosole profile and deafults to zsh
+  - Installs Go, Python, uv, zsh, nvim, colorscheme
+  - podman for docker, dind, and docker swarm
 - [ansible-nvim](https://github.com/jahrik/ansible-nvim) — Neovim configuration and plugin management via Ansible
 
 ### Social:
