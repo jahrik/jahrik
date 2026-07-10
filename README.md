@@ -46,7 +46,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jahrik&show_icons=true&theme=radical" alt="Jahrik's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jahrik&show_icons=true&theme=radical&include_all_commits=true&custom_title=Jahrik's%20All-Time%20Stats" alt="Jahrik's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahrik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
