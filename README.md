@@ -19,7 +19,7 @@
 
 ---
 
-### 🍄 Latest Fungi Finds
+### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
   <a href='https://www.inaturalist.org/observations/379915605' title='Webcaps'>
