@@ -46,8 +46,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahrik&show_icons=true&theme=radical" alt="Jahrik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahrik&layout=compact&theme=radical" alt="Top Languages" />
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/jahrik/jahrik/output/github-metrics.svg">
 </p>
 
 ### 🐍 Activity
