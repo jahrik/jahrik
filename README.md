@@ -22,14 +22,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/379915605' title='Webcaps'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/694995406/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/380110176' title='Brittlestems and Allies'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/695373670/medium.jpg' width='250' alt='Brittlestems and Allies' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/379853239' title='turkey-tail'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/694870876/medium.jpg' width='250' alt='turkey-tail' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/380109851' title='Hydnellum'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/695373034/medium.jpg' width='250' alt='Hydnellum' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/379853145' title='Ghost Pipe'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/694870637/medium.jpg' width='250' alt='Ghost Pipe' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/380109543' title='Rainbow Chanterelle'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/695372444/medium.jpg' width='250' alt='Rainbow Chanterelle' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
