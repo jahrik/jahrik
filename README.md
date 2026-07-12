@@ -6,11 +6,11 @@
 
 ### 🌟 About Me
 
-- 🐧 I'm a fan of **Linux** and love using it as my main OS.
-- 🛠️ I love tinkering with **Single Board Computers** and **ARM**.
+- 🐧 I'm a fan of Linux and love using it as my main OS.
+- 🛠️ I love tinkering with Single Board Computers and ARM.
 - 🌲 I spend a lot of time traveling and camping in the forest.
-- 🍄 I'm into mycology and taxonomy — cataloging local fungi on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any).
-- 🧠 I'm currently learning more about **Python, Data Science, Game Development, and AI**.
+- 🍄 I'm into mycology and taxonomy, cataloging local fungi on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any).
+- 🧠 I'm currently learning more about Python, Data Science, Game Development, and AI.
 
 ### 🎯 2026 Goals
 - Learn Korean
@@ -38,9 +38,9 @@
 
 ### 🚀 Featured Projects
 
-- [**ansible-arch-workstation**](https://github.com/jahrik/ansible-arch-workstation) — Full Arch Linux desktop setup via Ansible (Hyprland, Sway, i3, Neovim, and more)
+- [**ansible-arch-workstation**](https://github.com/jahrik/ansible-arch-workstation) - Full Arch Linux desktop setup via Ansible (Hyprland, Sway, i3, Neovim, and more)
 - [**ansible-steamdeck**](https://github.com/jahrik/ansible-steamdeck) - Development Environment on a Steam Deck via Ansible (podman, zsh, nvim, Go)
-- [**ansible-nvim**](https://github.com/jahrik/ansible-nvim) — Neovim configuration and plugin management via Ansible
+- [**ansible-nvim**](https://github.com/jahrik/ansible-nvim) - Neovim configuration and plugin management via Ansible
 
 ---
 
