@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Jahrik;Father,+Mentor,+Engineer;Linux+Tinkerer;Data+Engineer" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <a href="https://forayplanner.com">
+    <img src="https://img.shields.io/badge/🍄_Foray_Planner-forayplanner.com-13291F?style=for-the-badge&labelColor=13291F&color=22D3EE" alt="Foray Planner" />
+  </a>
+  <a href="https://gourmetgills.com">
+    <img src="https://img.shields.io/badge/🍄_Gourmet_Gills-gourmetgills.com-F4EEDA?style=for-the-badge&labelColor=6B0F2B&color=F4EEDA" alt="Gourmet Gills" />
+  </a>
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -9,7 +18,7 @@
 - 🐧 I'm a fan of Linux and love using it as my main OS.
 - 🛠️ I love tinkering with Single Board Computers and ARM.
 - 🌲 I spend a lot of time traveling and camping in the forest.
-- 🍄 I'm into mycology and taxonomy, cataloging local fungi on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any).
+- 🍄 I'm into mycology and taxonomy, cataloging local fungi on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=jahrik&verifiable=any) - and building tools around it, see [Foray Planner](https://forayplanner.com) below.
 - 🧠 I'm currently learning more about Python, Data Science, Game Development, and AI.
 
 ### 🎯 2026 Goals
@@ -38,15 +47,20 @@
 
 ### 🚀 Featured Projects
 
-- [**ansible-arch-workstation**](https://github.com/jahrik/ansible-arch-workstation) - Full Arch Linux desktop setup via Ansible (Hyprland, Sway, i3, Neovim, and more)
-- [**ansible-steamdeck**](https://github.com/jahrik/ansible-steamdeck) - Development Environment on a Steam Deck via Ansible (podman, zsh, nvim, Go)
-- [**ansible-nvim**](https://github.com/jahrik/ansible-nvim) - Neovim configuration and plugin management via Ansible
+| Project | What it is | Stack |
+|---|---|---|
+| [**Foray Planner**](https://forayplanner.com) · [repo](https://github.com/jahrik/foray-planner) | Trip-planning tool for mushroom hunters - ranks nearby hotspots by historical fruiting activity from iNaturalist data, layers in public land, trails, and camping | Python, TypeScript |
+| [**ansible-arch-workstation**](https://github.com/jahrik/ansible-arch-workstation) | Full Arch Linux desktop setup (Hyprland, Sway, i3, Neovim, and more) | Ansible |
+| [**ansible-ai-agents**](https://github.com/jahrik/ansible-ai-agents) | Installs and configures AI coding agents (AGY, Claude Code, Copilot) | Ansible, Jinja |
+| [**mcp-servers**](https://github.com/jahrik/mcp-servers) | A small collection of focused, self-maintained MCP servers | Python |
+| [**ansible-nvim**](https://github.com/jahrik/ansible-nvim) | Neovim configuration and plugin management | Ansible, Lua |
+| [**ansible-mac-workstation**](https://github.com/jahrik/ansible-mac-workstation) | macOS workstation setup | Ansible |
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jahrik&show_icons=true&theme=radical&include_all_commits=true&custom_title=Jahrik's%20All-Time%20Stats" alt="Jahrik's GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/jahrik?style=for-the-badge&labelColor=13291F&color=22D3EE&label=Followers" alt="Followers" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahrik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -81,5 +95,8 @@
 ### 📫 Connect with me
 
 <p align="center">
+<a href="https://forayplanner.com"><img alt="Foray Planner" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/leaflet/22D3EE" /></a>
+<a href="https://gourmetgills.com"><img alt="Gourmet Gills" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/shopify/6B0F2B" /></a>
+<a href="https://homelab.business/"><img alt="Homelab Business" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/homeassistant" /></a>
 <a href="https://www.linkedin.com/in/wes-gill-b6509043"><img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
