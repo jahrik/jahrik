@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
+  <a href='https://www.inaturalist.org/observations/383379452' title='Red-juice Tooth'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701683846/medium.jpg' width='250' alt='Red-juice Tooth' style='border-radius: 8px;' />
+  </a>
   <a href='https://www.inaturalist.org/observations/383092440' title='Blackening Brittlegill'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701124528/medium.jpg' width='250' alt='Blackening Brittlegill' style='border-radius: 8px;' />
   </a>
   <a href='https://www.inaturalist.org/observations/383092257' title='Fungi Including Lichens'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701124151/medium.jpg' width='250' alt='Fungi Including Lichens' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/383092067' title='Shelf Fungi'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701123749/medium.jpg' width='250' alt='Shelf Fungi' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
