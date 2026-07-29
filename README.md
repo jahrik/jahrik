@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/383379452' title='Red-juice Tooth'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701683846/medium.jpg' width='250' alt='Red-juice Tooth' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/386104987' title='Sarcodon'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/706910084/medium.jpg' width='250' alt='Sarcodon' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/383092440' title='Blackening Brittlegill'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701124528/medium.jpg' width='250' alt='Blackening Brittlegill' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/386104817' title='brittlegills'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/706909903/medium.jpg' width='250' alt='brittlegills' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/383092257' title='Fungi Including Lichens'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/701124151/medium.jpg' width='250' alt='Fungi Including Lichens' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/386104495' title='Blue-staining Slippery Jack'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/706909223/medium.jpg' width='250' alt='Blue-staining Slippery Jack' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
