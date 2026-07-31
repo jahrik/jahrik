@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/386104987' title='Sarcodon'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/706910084/medium.jpg' width='250' alt='Sarcodon' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/386458885' title='Albatrellus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707585477/medium.jpg' width='250' alt='Albatrellus' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/386104817' title='brittlegills'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/706909903/medium.jpg' width='250' alt='brittlegills' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/386458727' title='brittlegills'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707585181/medium.jpg' width='250' alt='brittlegills' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/386104495' title='Blue-staining Slippery Jack'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/706909223/medium.jpg' width='250' alt='Blue-staining Slippery Jack' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/386458329' title='Hydnellum'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707584417/medium.jpg' width='250' alt='Hydnellum' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
