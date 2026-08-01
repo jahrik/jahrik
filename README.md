@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
+  <a href='https://www.inaturalist.org/observations/386761510' title='Ochre-banded Conk'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708163182/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
+  </a>
+  <a href='https://www.inaturalist.org/observations/386761122' title='Calcipostia guttulata'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708162326/medium.jpg' width='250' alt='Calcipostia guttulata' style='border-radius: 8px;' />
+  </a>
   <a href='https://www.inaturalist.org/observations/386458885' title='Albatrellus'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707585477/medium.jpg' width='250' alt='Albatrellus' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/386458727' title='brittlegills'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707585181/medium.jpg' width='250' alt='brittlegills' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/386458329' title='Hydnellum'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707584417/medium.jpg' width='250' alt='Hydnellum' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
