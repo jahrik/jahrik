@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/386761510' title='Ochre-banded Conk'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708163182/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/387113159' title='Pacific Golden Chanterelle'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708838505/medium.jpg' width='250' alt='Pacific Golden Chanterelle' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/386761122' title='Calcipostia guttulata'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708162326/medium.jpg' width='250' alt='Calcipostia guttulata' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/387112940' title='Sulphur Tuft'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708838036/medium.jpg' width='250' alt='Sulphur Tuft' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/386458885' title='Albatrellus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/707585477/medium.jpg' width='250' alt='Albatrellus' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/387112842' title='White Cheese Polypore'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/708837763/medium.jpg' width='250' alt='White Cheese Polypore' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
