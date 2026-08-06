@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/387777002' title='hedgehog mushrooms'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/710120023/medium.jpg' width='250' alt='hedgehog mushrooms' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/388630332' title='Bondarzewia occidentalis'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/711795611/medium.jpg' width='250' alt='Bondarzewia occidentalis' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/387776742' title='Velvet-footed Tap'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/710119534/medium.jpg' width='250' alt='Velvet-footed Tap' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/388404444' title='Russula crassotunicata'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/711356175/medium.jpg' width='250' alt='Russula crassotunicata' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/387776441' title='Western Yellow-veiled Amanita'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/710118809/medium.jpg' width='250' alt='Western Yellow-veiled Amanita' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/388404189' title='lobster mushroom'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/711355625/medium.jpg' width='250' alt='lobster mushroom' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
