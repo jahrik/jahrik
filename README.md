@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/388640548' title='Cortinarius sect. Defibulati'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/711815410/medium.jpg' width='250' alt='Cortinarius sect. Defibulati' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/389917174' title='Hypomyces'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/714283009/medium.jpg' width='250' alt='Hypomyces' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/388630332' title='Bondarzewia occidentalis'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/711795611/medium.jpg' width='250' alt='Bondarzewia occidentalis' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/389916905' title='Pulveroboletus sp. 'ravenelii-CA01''>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/714282534/medium.jpg' width='250' alt='Pulveroboletus sp. 'ravenelii-CA01'' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/388404444' title='Russula crassotunicata'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/711356175/medium.jpg' width='250' alt='Russula crassotunicata' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/389916653' title='Fungi Including Lichens'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/714282042/medium.jpg' width='250' alt='Fungi Including Lichens' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
