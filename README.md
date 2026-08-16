@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/390723710' title='West Coast Reishi'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/715857965/medium.jpg' width='250' alt='West Coast Reishi' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/391298604' title='Ochre-banded Conk'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/716980514/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/390723650' title='lobster mushroom'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/715857827/medium.jpg' width='250' alt='lobster mushroom' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/391298240' title='Ochre-banded Conk'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/716979683/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/389917174' title='Hypomyces'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/714283009/medium.jpg' width='250' alt='Hypomyces' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/391298150' title='Ochre-banded Conk'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/716979533/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
