@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/391298604' title='Ochre-banded Conk'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/716980514/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/395994463' title='Sweetbread Mushroom'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/726156258/medium.jpg' width='250' alt='Sweetbread Mushroom' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/391298240' title='Ochre-banded Conk'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/716979683/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/395994401' title='Shields'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/726156093/medium.jpg' width='250' alt='Shields' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/391298150' title='Ochre-banded Conk'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/716979533/medium.jpg' width='250' alt='Ochre-banded Conk' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/395994338' title='Webcaps'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/726156000/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
