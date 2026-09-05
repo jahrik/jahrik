@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/395994463' title='Sweetbread Mushroom'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/726156258/medium.jpg' width='250' alt='Sweetbread Mushroom' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/397106466' title='Cystinarius rubiginosus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/728302739/medium.jpg' width='250' alt='Cystinarius rubiginosus' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/395994401' title='Shields'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/726156093/medium.jpg' width='250' alt='Shields' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/397106357' title='Hydnum washingtonianum'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/728302443/medium.jpg' width='250' alt='Hydnum washingtonianum' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/395994338' title='Webcaps'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/726156000/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/397106243' title='turkey-tail'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/728302261/medium.jpg' width='250' alt='turkey-tail' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
