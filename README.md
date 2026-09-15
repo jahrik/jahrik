@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/398329509' title='Lumpy Bracket'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/730697733/medium.jpg' width='250' alt='Lumpy Bracket' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/400099230' title='False Chanterelle'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/734142889/medium.jpg' width='250' alt='False Chanterelle' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/398329401' title='turkey-tail'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/730697479/medium.jpg' width='250' alt='turkey-tail' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/400099112' title='Common Milkcaps'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/734142702/medium.jpg' width='250' alt='Common Milkcaps' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/397106466' title='Cystinarius rubiginosus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/728302739/medium.jpg' width='250' alt='Cystinarius rubiginosus' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/400099073' title='Common Milkcaps'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/734142633/medium.jpg' width='250' alt='Common Milkcaps' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
