@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/400819819' title='Woolly Pine Spike'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/735596109/medium.jpg' width='250' alt='Woolly Pine Spike' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/401399662' title='pig's ears'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736732244/medium.jpg' width='250' alt='pig's ears' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/400819757' title='West Coast Reishi'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/735595963/medium.jpg' width='250' alt='West Coast Reishi' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/401399516' title='Velvet-footed Tap'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736731974/medium.jpg' width='250' alt='Velvet-footed Tap' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/400819667' title='West Coast Reishi'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/735595907/medium.jpg' width='250' alt='West Coast Reishi' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/401399440' title='Pacific Giant Salamander'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736731790/medium.jpg' width='250' alt='Pacific Giant Salamander' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
