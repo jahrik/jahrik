@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/401399662' title='pig's ears'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736732244/medium.jpg' width='250' alt='pig's ears' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/401415720' title='Western Painted Suillus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736765430/medium.jpg' width='250' alt='Western Painted Suillus' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/401399516' title='Velvet-footed Tap'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736731974/medium.jpg' width='250' alt='Velvet-footed Tap' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/401415588' title='Leucoagaricus rubrotinctoides'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736765124/medium.jpg' width='250' alt='Leucoagaricus rubrotinctoides' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/401399440' title='Pacific Giant Salamander'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736731790/medium.jpg' width='250' alt='Pacific Giant Salamander' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/401415389' title='Coprinellus sect. Micacei'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736764660/medium.jpg' width='250' alt='Coprinellus sect. Micacei' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
