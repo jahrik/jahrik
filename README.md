@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/401415720' title='Western Painted Suillus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736765430/medium.jpg' width='250' alt='Western Painted Suillus' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/402646431' title='blue knight'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/739194680/medium.jpg' width='250' alt='blue knight' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/401415588' title='Leucoagaricus rubrotinctoides'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736765124/medium.jpg' width='250' alt='Leucoagaricus rubrotinctoides' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/402646374' title='Phaeolus hispidoides'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/739194570/medium.jpg' width='250' alt='Phaeolus hispidoides' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/401415389' title='Coprinellus sect. Micacei'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/736764660/medium.jpg' width='250' alt='Coprinellus sect. Micacei' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/402646288' title='Smoky polypore'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/739194372/medium.jpg' width='250' alt='Smoky polypore' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
