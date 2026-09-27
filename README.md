@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
+  <a href='https://www.inaturalist.org/observations/403440040' title='Common Gilled Mushrooms and Allies'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/740745979/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
+  </a>
+  <a href='https://www.inaturalist.org/observations/403439586' title='Short-stalked Suillus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/740744983/medium.jpg' width='250' alt='Short-stalked Suillus' style='border-radius: 8px;' />
+  </a>
   <a href='https://www.inaturalist.org/observations/402646431' title='blue knight'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/739194680/medium.jpg' width='250' alt='blue knight' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/402646374' title='Phaeolus hispidoides'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/739194570/medium.jpg' width='250' alt='Phaeolus hispidoides' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/402646288' title='Smoky polypore'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/739194372/medium.jpg' width='250' alt='Smoky polypore' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
