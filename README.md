@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
+  <a href='https://www.inaturalist.org/observations/404366596' title='Slippery Jacks'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742581236/medium.jpg' width='250' alt='Slippery Jacks' style='border-radius: 8px;' />
+  </a>
+  <a href='https://www.inaturalist.org/observations/404366517' title='Slippery Jacks'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742581079/medium.jpg' width='250' alt='Slippery Jacks' style='border-radius: 8px;' />
+  </a>
   <a href='https://www.inaturalist.org/observations/404364936' title='King Bolete'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742577680/medium.jpg' width='250' alt='King Bolete' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/404364743' title='true slime molds'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742577391/medium.jpg' width='250' alt='true slime molds' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/404364689' title='true slime molds'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742577265/medium.jpg' width='250' alt='true slime molds' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
