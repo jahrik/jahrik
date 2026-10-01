@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/404366596' title='Slippery Jacks'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742581236/medium.jpg' width='250' alt='Slippery Jacks' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/404647569' title='Common Gilled Mushrooms and Allies'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/743141361/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/404366517' title='Slippery Jacks'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742581079/medium.jpg' width='250' alt='Slippery Jacks' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/404647520' title='boletes'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/743141263/medium.jpg' width='250' alt='boletes' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/404364936' title='King Bolete'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/742577680/medium.jpg' width='250' alt='King Bolete' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/404647431' title='Smith's Bolete'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/743141157/medium.jpg' width='250' alt='Smith's Bolete' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
