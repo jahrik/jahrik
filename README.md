@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/404647569' title='Common Gilled Mushrooms and Allies'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/743141361/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/405987793' title='Blackening Slime Spike'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/745823522/medium.jpg' width='250' alt='Blackening Slime Spike' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/404647520' title='boletes'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/743141263/medium.jpg' width='250' alt='boletes' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/405987592' title='Knights'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/745823237/medium.jpg' width='250' alt='Knights' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/404647431' title='Smith's Bolete'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/743141157/medium.jpg' width='250' alt='Smith's Bolete' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/405987420' title='American Fly Agaric'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/745823038/medium.jpg' width='250' alt='American Fly Agaric' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
