@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/405987793' title='Blackening Slime Spike'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/745823522/medium.jpg' width='250' alt='Blackening Slime Spike' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/406701268' title='bleeding blue tooth'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/747265332/medium.jpg' width='250' alt='bleeding blue tooth' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/405987592' title='Knights'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/745823237/medium.jpg' width='250' alt='Knights' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/406701189' title='Sulphur Tuft'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/747265201/medium.jpg' width='250' alt='Sulphur Tuft' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/405987420' title='American Fly Agaric'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/745823038/medium.jpg' width='250' alt='American Fly Agaric' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/406701110' title='membranous pelt lichen'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/747265064/medium.jpg' width='250' alt='membranous pelt lichen' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
