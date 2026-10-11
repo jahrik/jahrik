@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/406701268' title='bleeding blue tooth'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/747265332/medium.jpg' width='250' alt='bleeding blue tooth' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/407390192' title='pig's ears'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748639104/medium.jpg' width='250' alt='pig's ears' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/406701189' title='Sulphur Tuft'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/747265201/medium.jpg' width='250' alt='Sulphur Tuft' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/407390126' title='American Fly Agaric'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748638932/medium.jpg' width='250' alt='American Fly Agaric' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/406701110' title='membranous pelt lichen'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/747265064/medium.jpg' width='250' alt='membranous pelt lichen' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/407390073' title='Albatrellus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748638769/medium.jpg' width='250' alt='Albatrellus' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
