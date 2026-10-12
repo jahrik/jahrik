@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/407390192' title='pig's ears'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748639104/medium.jpg' width='250' alt='pig's ears' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/407448833' title='Orange Rough-cap Tooth'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748763126/medium.jpg' width='250' alt='Orange Rough-cap Tooth' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/407390126' title='American Fly Agaric'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748638932/medium.jpg' width='250' alt='American Fly Agaric' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/407448530' title='Western Matsutake'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748762736/medium.jpg' width='250' alt='Western Matsutake' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/407390073' title='Albatrellus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748638769/medium.jpg' width='250' alt='Albatrellus' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/407448498' title='Pluteus cervinus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748762628/medium.jpg' width='250' alt='Pluteus cervinus' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
