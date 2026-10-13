@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
+  <a href='https://www.inaturalist.org/observations/407957276' title='Leccinum'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/749801516/medium.jpg' width='250' alt='Leccinum' style='border-radius: 8px;' />
+  </a>
   <a href='https://www.inaturalist.org/observations/407448833' title='Orange Rough-cap Tooth'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748763126/medium.jpg' width='250' alt='Orange Rough-cap Tooth' style='border-radius: 8px;' />
   </a>
   <a href='https://www.inaturalist.org/observations/407448530' title='Western Matsutake'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748762736/medium.jpg' width='250' alt='Western Matsutake' style='border-radius: 8px;' />
-  </a>
-  <a href='https://www.inaturalist.org/observations/407448498' title='Pluteus cervinus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748762628/medium.jpg' width='250' alt='Pluteus cervinus' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
