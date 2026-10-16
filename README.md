@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/407957276' title='Leccinum'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/749801516/medium.jpg' width='250' alt='Leccinum' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/408619647' title='Wrinkled Cortinarius'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751159922/medium.jpg' width='250' alt='Wrinkled Cortinarius' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/407448833' title='Orange Rough-cap Tooth'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748763126/medium.jpg' width='250' alt='Orange Rough-cap Tooth' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/408619509' title='Webcaps'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751159580/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/407448530' title='Western Matsutake'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/748762736/medium.jpg' width='250' alt='Western Matsutake' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/408619433' title='Common Gilled Mushrooms and Allies'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751159451/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
