@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/408619647' title='Wrinkled Cortinarius'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751159922/medium.jpg' width='250' alt='Wrinkled Cortinarius' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/408622213' title='Western Yellow-veiled Amanita'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751165757/medium.jpg' width='250' alt='Western Yellow-veiled Amanita' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/408619509' title='Webcaps'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751159580/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/408622167' title='Deceivers'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751165630/medium.jpg' width='250' alt='Deceivers' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/408619433' title='Common Gilled Mushrooms and Allies'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751159451/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/408622114' title='Cortinarius sect. Lanigeri'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751165516/medium.jpg' width='250' alt='Cortinarius sect. Lanigeri' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
