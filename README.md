@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/408622213' title='Western Yellow-veiled Amanita'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751165757/medium.jpg' width='250' alt='Western Yellow-veiled Amanita' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409058048' title='Phaonia subventa'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752038682/medium.jpg' width='250' alt='Phaonia subventa' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/408622167' title='Deceivers'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751165630/medium.jpg' width='250' alt='Deceivers' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409057914' title='brittlegills'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752038359/medium.jpg' width='250' alt='brittlegills' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/408622114' title='Cortinarius sect. Lanigeri'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/751165516/medium.jpg' width='250' alt='Cortinarius sect. Lanigeri' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409057799' title='Amanita subg. Amanita'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752038186/medium.jpg' width='250' alt='Amanita subg. Amanita' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
