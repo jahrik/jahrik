@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/409058048' title='Phaonia subventa'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752038682/medium.jpg' width='250' alt='Phaonia subventa' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409315604' title='Webcaps'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563953/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/409057914' title='brittlegills'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752038359/medium.jpg' width='250' alt='brittlegills' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409315569' title='Smith's Bolete'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563868/medium.jpg' width='250' alt='Smith's Bolete' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/409057799' title='Amanita subg. Amanita'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752038186/medium.jpg' width='250' alt='Amanita subg. Amanita' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409315423' title='field and button mushrooms'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563658/medium.jpg' width='250' alt='field and button mushrooms' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
