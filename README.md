@@ -31,8 +31,8 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/409315604' title='Webcaps'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563953/medium.jpg' width='250' alt='Webcaps' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409315604' title='Cortinarius sect. Tragani'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563953/medium.jpg' width='250' alt='Cortinarius sect. Tragani' style='border-radius: 8px;' />
   </a>
   <a href='https://www.inaturalist.org/observations/409315569' title='Smith's Bolete'>
     <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563868/medium.jpg' width='250' alt='Smith's Bolete' style='border-radius: 8px;' />
