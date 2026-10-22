@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/409315604' title='Cortinarius sect. Tragani'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563953/medium.jpg' width='250' alt='Cortinarius sect. Tragani' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409833139' title='Oxidus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/753630240/medium.jpg' width='250' alt='Oxidus' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/409315569' title='Smith's Bolete'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563868/medium.jpg' width='250' alt='Smith's Bolete' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409833122' title='Dusky Bolete'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/753630209/medium.jpg' width='250' alt='Dusky Bolete' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/409315423' title='field and button mushrooms'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/752563658/medium.jpg' width='250' alt='field and button mushrooms' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/409833070' title='Coprinellus sect. Micacei'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/753630127/medium.jpg' width='250' alt='Coprinellus sect. Micacei' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
