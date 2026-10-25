@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/409833139' title='Oxidus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/753630240/medium.jpg' width='250' alt='Oxidus' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410440990' title='Western cauliflower mushroom'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/754864496/medium.jpg' width='250' alt='Western cauliflower mushroom' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/409833122' title='Dusky Bolete'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/753630209/medium.jpg' width='250' alt='Dusky Bolete' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410440957' title='Knights'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/754864397/medium.jpg' width='250' alt='Knights' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/409833070' title='Coprinellus sect. Micacei'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/753630127/medium.jpg' width='250' alt='Coprinellus sect. Micacei' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410440854' title='White Chanterelle'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/754864277/medium.jpg' width='250' alt='White Chanterelle' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
