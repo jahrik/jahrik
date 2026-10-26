@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/410440990' title='Western cauliflower mushroom'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/754864496/medium.jpg' width='250' alt='Western cauliflower mushroom' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410657106' title='Blewit'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755309061/medium.jpg' width='250' alt='Blewit' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/410440957' title='Knights'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/754864397/medium.jpg' width='250' alt='Knights' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410656770' title='Shelf Fungi'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755308139/medium.jpg' width='250' alt='Shelf Fungi' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/410440854' title='White Chanterelle'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/754864277/medium.jpg' width='250' alt='White Chanterelle' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410656507' title='Coprinellus sect. Micacei'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755307256/medium.jpg' width='250' alt='Coprinellus sect. Micacei' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
