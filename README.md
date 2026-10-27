@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/410657106' title='Blewit'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755309061/medium.jpg' width='250' alt='Blewit' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410907176' title='Inkcaps'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755821191/medium.jpg' width='250' alt='Inkcaps' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/410656770' title='Shelf Fungi'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755308139/medium.jpg' width='250' alt='Shelf Fungi' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410906882' title='Xanthorioideae'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755820537/medium.jpg' width='250' alt='Xanthorioideae' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/410656507' title='Coprinellus sect. Micacei'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755307256/medium.jpg' width='250' alt='Coprinellus sect. Micacei' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/410906841' title='Agaricus sect. Xanthodermatei'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/755820360/medium.jpg' width='250' alt='Agaricus sect. Xanthodermatei' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
