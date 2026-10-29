@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/411277083' title='White Chanterelle'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756567953/medium.jpg' width='250' alt='White Chanterelle' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/411486991' title='Deceivers'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756994420/medium.jpg' width='250' alt='Deceivers' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/411277010' title='Western Matsutake'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756567847/medium.jpg' width='250' alt='Western Matsutake' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/411486908' title='Common Gilled Mushrooms and Allies'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756994338/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/411276849' title='Scaly Chanterelle'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756567605/medium.jpg' width='250' alt='Scaly Chanterelle' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/411486681' title='Xerocomellus'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756993817/medium.jpg' width='250' alt='Xerocomellus' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
