@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/411486991' title='Deceivers'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756994420/medium.jpg' width='250' alt='Deceivers' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/411837793' title='Douglas's Squirrel'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/757692536/medium.jpg' width='250' alt='Douglas's Squirrel' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/411486908' title='Common Gilled Mushrooms and Allies'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756994338/medium.jpg' width='250' alt='Common Gilled Mushrooms and Allies' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/411833469' title='Xeromphalinaceae'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/757684454/medium.jpg' width='250' alt='Xeromphalinaceae' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/411486681' title='Xerocomellus'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/756993817/medium.jpg' width='250' alt='Xerocomellus' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/411833369' title='Bonnets'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/757684221/medium.jpg' width='250' alt='Bonnets' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
