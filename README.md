@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/411837793' title='Douglas's Squirrel'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/757692536/medium.jpg' width='250' alt='Douglas's Squirrel' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/412097555' title='Northern Red-legged Frog'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758215581/medium.jpg' width='250' alt='Northern Red-legged Frog' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/411833469' title='Xeromphalinaceae'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/757684454/medium.jpg' width='250' alt='Xeromphalinaceae' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/412097451' title='western bitter bolete'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758215388/medium.jpg' width='250' alt='western bitter bolete' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/411833369' title='Bonnets'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/757684221/medium.jpg' width='250' alt='Bonnets' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/412097366' title='violet webcap'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758215267/medium.jpg' width='250' alt='violet webcap' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
