@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/412097555' title='Northern Red-legged Frog'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758215581/medium.jpg' width='250' alt='Northern Red-legged Frog' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/412098551' title='Little Blue Polypore'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758217251/medium.jpg' width='250' alt='Little Blue Polypore' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/412097451' title='western bitter bolete'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758215388/medium.jpg' width='250' alt='western bitter bolete' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/412098456' title='Fungi Including Lichens'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758217017/medium.jpg' width='250' alt='Fungi Including Lichens' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/412097366' title='violet webcap'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758215267/medium.jpg' width='250' alt='violet webcap' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/412097944' title='Western Black Elfin Saddle'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/758216205/medium.jpg' width='250' alt='Western Black Elfin Saddle' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
