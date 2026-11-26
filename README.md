@@ -31,14 +31,14 @@
 ### 🍄 Latest iNat Finds
 <!-- inat-start -->
 <p align='center'>
-  <a href='https://www.inaturalist.org/observations/414046776' title='Knights'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/762152427/medium.jpg' width='250' alt='Knights' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/416852120' title='honey mushrooms'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/767764388/medium.jpg' width='250' alt='honey mushrooms' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/414046453' title='Umber-brown Puffball'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/762151886/medium.jpg' width='250' alt='Umber-brown Puffball' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/416852072' title='honey mushrooms'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/767764301/medium.jpg' width='250' alt='honey mushrooms' style='border-radius: 8px;' />
   </a>
-  <a href='https://www.inaturalist.org/observations/414046336' title='chestnut brittlestem'>
-    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/762151635/medium.jpg' width='250' alt='chestnut brittlestem' style='border-radius: 8px;' />
+  <a href='https://www.inaturalist.org/observations/416852016' title='King Bolete'>
+    <img src='https://inaturalist-open-data.s3.amazonaws.com/photos/767764147/medium.jpg' width='250' alt='King Bolete' style='border-radius: 8px;' />
   </a>
 </p>
 <!-- inat-end -->
